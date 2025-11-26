@@ -167,6 +167,7 @@ test.describe("Asset Panda 2.0",{ tag: ['@LoginPage' ] }, () => {
   test("Invalid username and valid password ", async ({ }, testInfo) => {
     await loginPage.loginAsDifferentUser.click()
     await loginPage.invalidLogin("vk@assetpanda.com", "P@nda123")
+    console.log("login test")
   })
 
 })

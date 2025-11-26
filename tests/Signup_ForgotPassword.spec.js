@@ -38,6 +38,7 @@ test('Signup -> Forgot Password -> Fill Form and Submit', async ({ page }) => {
   await page.waitForURL(/reset-password/, { timeout: 10000 }).catch(() => {
     // If URL doesn't change, try navigating directly
     page.goto(resetUrl, { waitUntil: 'domcontentloaded' });
+    console.log("test")
   });
 
   // Step 4: Wait for the reset password form to load
