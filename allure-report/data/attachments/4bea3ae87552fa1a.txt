@@ -1,0 +1,5 @@
+Step 1: Navigate to Sign In
+Page Title: Airth Portal
+Step 2: Click Sign up
+Count of "Sign up": 1
+Waiting for URL change...

@@ -1,0 +1,45 @@
+TEST FAILED: page.waitForURL: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at C:\Users\Webkorps\Documents\GitHub\Playwright Automation\tests\airth_signup_newtest.spec.js:24:20 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: 'C:\\Users\\Webkorps\\Documents\\GitHub\\Playwright Automation\\tests\\airth_signup_newtest.spec.js',
+      line: 24,
+      column: 20
+    },
+    category: 'pw:api',
+    title: 'Wait for navigation',
+    apiName: 'page.waitForURL',
+    params: { info: [Object] },
+    group: undefined,
+    stepId: 'pw:api@42',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@42',
+      _title: 'Wait for navigation',
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1765546026473,
+    error: {
+      message: 'TimeoutError: page.waitForURL: Timeout 10000ms exceeded.\n' +
+        '=========================== logs ===========================\n' +
+        'waiting for navigation until "load"\n' +
+        '============================================================',
+      stack: 'TimeoutError: page.waitForURL: Timeout 10000ms exceeded.\n' +
+        '=========================== logs ===========================\n' +
+        'waiting for navigation until "load"\n' +
+        '============================================================\n' +
+        '    at C:\\Users\\Webkorps\\Documents\\GitHub\\Playwright Automation\\tests\\airth_signup_newtest.spec.js:24:20',
+      cause: undefined
+    }
+  }
+}

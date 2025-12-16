@@ -1,0 +1,352 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - link "airth.io" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "airth.io" [ref=e8]
+      - navigation [ref=e9]:
+        - link "Home" [ref=e11] [cursor=pointer]:
+          - /url: /
+        - link "airth Core" [ref=e13] [cursor=pointer]:
+          - /url: /airth-core
+        - link "airth mOS" [ref=e15] [cursor=pointer]:
+          - /url: /airth-mos
+        - link "airth Xchange" [ref=e17] [cursor=pointer]:
+          - /url: /airth-xchange
+        - button "airth Solutions" [ref=e19] [cursor=pointer]:
+          - text: airth Solutions
+          - img [ref=e20]
+        - link "Team" [ref=e23] [cursor=pointer]:
+          - /url: /team
+        - link "Contact Us" [ref=e25] [cursor=pointer]:
+          - /url: /contact-us
+    - generic [ref=e32]:
+      - heading "Optimize Mine" [level=1] [ref=e33]:
+        - generic [ref=e35]: Optimize Mine
+      - paragraph [ref=e36]: Mine Value Chain Solutions by Miners for Miners
+      - paragraph [ref=e37]: Revolutionizing Mining, One Solution at a Time
+      - generic [ref=e38]:
+        - link "Get Started" [ref=e39] [cursor=pointer]:
+          - /url: /contact-us
+          - button "Get Started" [ref=e40]
+        - link "Learn More" [ref=e41] [cursor=pointer]:
+          - /url: /airth-core
+          - button "Learn More" [ref=e42]
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - heading "Three Key Challenges of Modern Mining Operations" [level=2] [ref=e49]
+        - paragraph [ref=e50]: The mining industry faces increasing pressure to adapt to global demand, environmental regulations, and technological transformation.
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - generic [ref=e54]:
+            - heading "Global Demand for Critical Minerals" [level=3] [ref=e55]
+            - generic [ref=e56]:
+              - paragraph [ref=e58]:
+                - generic [ref=e59]: "EV Industry Growth:"
+                - text: The demand for electric vehicles (EVs) is expected to rise significantly, with projections suggesting 145 millions of units by 2030. This surge underscores an increased need for lithium, cobalt, nickel, and rare earth elements.
+              - paragraph [ref=e61]:
+                - generic [ref=e62]: "Renewable Energy Expansion:"
+                - text: The global push towards renewable energy sources is intensifying demand for minerals such as copper, used extensively in solar panels, wind turbines, and the infrastructure required to connect these technologies to the power grid.
+          - generic [ref=e64]:
+            - heading "Supply Chain and Environmental Concerns" [level=3] [ref=e65]
+            - generic [ref=e66]:
+              - paragraph [ref=e68]:
+                - generic [ref=e69]: "Geopolitical Risks:"
+                - text: The concentration of critical mineral resources in specific geographical locations introduces significant geopolitical risks, affecting global supply chains.
+              - paragraph [ref=e71]:
+                - generic [ref=e72]: "Environmental and Social Impact:"
+                - text: Mining activities are under increasing scrutiny for their environmental and social impacts, driving a need for more sustainable and responsible mining practices.
+          - generic [ref=e74]:
+            - heading "Technological and Operational Challenges" [level=3] [ref=e75]
+            - generic [ref=e76]:
+              - paragraph [ref=e78]:
+                - generic [ref=e79]: "Data Silos and Interoperability Issues:"
+                - text: The mining industry often struggles with data silos and a lack of interoperability between systems, hindering efficient interdepartmental work flow and optimization.
+              - paragraph [ref=e81]:
+                - generic [ref=e82]: "Need for Agile and Responsive Systems:"
+                - text: As market demands and environmental regulations evolve, mining operations require more agile and responsive systems to adapt quickly.
+        - generic [ref=e84]:
+          - generic [ref=e86]:
+            - generic [ref=e88]: 145M+
+            - generic [ref=e89]:
+              - heading "EV Industry Growth by 2030" [level=4] [ref=e90]
+              - paragraph [ref=e91]: The electric vehicle market is projected to grow exponentially, driving demand for battery minerals.
+          - generic [ref=e93]:
+            - generic [ref=e95]: 5+
+            - generic [ref=e96]:
+              - heading "Critical Minerals for Renewables" [level=4] [ref=e97]
+              - paragraph [ref=e98]: Renewable energy systems depend on lithium, cobalt, nickel, copper and rare earth elements.
+          - generic [ref=e100]:
+            - generic [ref=e102]: 75%
+            - generic [ref=e103]:
+              - heading "Geopolitical & Environmental Concern" [level=4] [ref=e104]
+              - paragraph [ref=e105]: Critical minerals are concentrated in regions with geopolitical tensions and environmental challenges.
+          - generic [ref=e107]:
+            - generic [ref=e109]: 90%
+            - generic [ref=e110]:
+              - heading "Need for Technological Improvements" [level=4] [ref=e111]
+              - paragraph [ref=e112]: Most mining operations require significant technological upgrades to meet future demand.
+      - generic [ref=e113]:
+        - button "Section 1" [ref=e114] [cursor=pointer]
+        - button "Section 2" [ref=e115] [cursor=pointer]
+        - button "Section 3" [ref=e116] [cursor=pointer]
+    - generic [ref=e118]:
+      - generic [ref=e119]:
+        - generic [ref=e121]: airth Ecosystem
+        - heading "AI Powered Mining" [level=2] [ref=e122]
+        - paragraph [ref=e123]: airth Ecosystem streamlines the entire mining lifecycle—mine to port—by integrating seamless data sharing, artificial intelligence, and mining specific engines. It supports end-to-end processes like production planning, material routing, and financial modeling.
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e126]:
+            - img [ref=e128]
+            - heading "Products" [level=3] [ref=e130]
+          - list [ref=e131]:
+            - listitem [ref=e132]:
+              - generic [ref=e134]: airth Plan
+            - listitem [ref=e135]:
+              - generic [ref=e137]: airth Heap Leach
+            - listitem [ref=e138]:
+              - generic [ref=e140]: airth Foresight
+            - listitem [ref=e141]:
+              - generic [ref=e143]: airth Finance
+            - listitem [ref=e144]:
+              - generic [ref=e146]: airth Co-Pilot
+            - listitem [ref=e147]:
+              - generic [ref=e149]: airth Aether
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - img [ref=e153]
+            - heading "Platform" [level=3] [ref=e155]
+          - paragraph [ref=e157]: airth Core mOS
+          - list [ref=e158]:
+            - listitem [ref=e159]:
+              - generic [ref=e161]: Lithos
+            - listitem [ref=e162]:
+              - generic [ref=e164]: Solis
+            - listitem [ref=e165]:
+              - generic [ref=e167]: Aether
+            - listitem [ref=e168]:
+              - generic [ref=e170]: Plato
+        - generic [ref=e171]:
+          - generic [ref=e172]:
+            - img [ref=e174]
+            - heading "Marketplace" [level=3] [ref=e176]
+          - list [ref=e177]:
+            - listitem [ref=e178]:
+              - generic [ref=e180]: Solution Xchange
+            - listitem [ref=e181]:
+              - generic [ref=e183]: Knowledge Xchange
+            - listitem [ref=e184]:
+              - generic [ref=e186]: Service Xchange (Coming Soon)
+            - listitem [ref=e187]:
+              - generic [ref=e189]: Investor Xchange (Coming Soon)
+      - generic [ref=e192]:
+        - 'heading "Bring your business data to life: visualize, analyze, and strategize with airth Core mOS" [level=2] [ref=e193]':
+          - text: "Bring your business data to life:"
+          - text: visualize, analyze, and strategize with
+          - text: airth Core mOS
+        - generic [ref=e194]:
+          - generic [ref=e195]:
+            - img [ref=e198]
+            - heading "Revolutionizing Mine Value Chain Management" [level=3] [ref=e200]
+            - paragraph [ref=e201]: airth Core redefines data handling in the mining industry, offering intuitive platform and comprehensive yet easy-to-use solutions.
+            - paragraph [ref=e203]: Ecosystem approach, with products like airth Plan, Connect, Act, Co-pilot, and Finance, provides seamless integration with our no-code platform and, third party solutions and vendors, enabling efficient and accessible data management for every mine operations' need.
+          - generic [ref=e204]:
+            - img [ref=e207]
+            - heading "Advanced Tools for Sustainable Mining Decisions" [level=3] [ref=e209]
+            - paragraph [ref=e210]: Beyond mere data analytics, airth.io encompasses products like airth Foresight and third party solutions, empowering the mining industry to make informed, sustainable decisions.
+            - paragraph [ref=e212]: With strategic planning tools and financial optimization features, airth Core sets new efficiency and profitability standards.
+          - generic [ref=e213]:
+            - img [ref=e216]
+            - heading "Customizable and User-Friendly Platform" [level=3] [ref=e218]
+            - paragraph [ref=e219]: airth Core's user interface is tailored for different proficiency levels, offering adaptive UI, interactive guides, and extensive data connectors.
+            - paragraph [ref=e221]: It includes near real-time data streaming and advanced analytics tools, like interactive dashboards, augmented analytics, and 3D/5D visualization to enhance accessibility and offer comprehensive mine value chain insights.
+      - generic [ref=e222]:
+        - heading "We are trusted by brands across mining industry" [level=2] [ref=e223]
+        - generic [ref=e224]:
+          - generic [ref=e225]:
+            - generic:
+              - generic:
+                - img "Capstone Copper"
+              - generic:
+                - img "Labris"
+              - generic:
+                - img "GMG"
+              - generic:
+                - img "SSR Mining"
+              - generic:
+                - img "Openloop"
+            - generic [ref=e226]:
+              - img "Elevation Gold" [ref=e228]
+              - img "AWS" [ref=e230]
+              - img "Wenco" [ref=e232]
+              - img "SME" [ref=e234]
+          - generic [ref=e235]:
+            - button "Logo Slide 1" [ref=e236] [cursor=pointer]
+            - button "Logo Slide 2" [ref=e237] [cursor=pointer]
+      - generic [ref=e238]:
+        - heading "Testimonials" [level=2] [ref=e240]
+        - generic [ref=e241]:
+          - generic [ref=e242]:
+            - generic [ref=e243]:
+              - paragraph [ref=e245]: "\"When I first engaged with airth.io I was seeking an affordable software solution to streamline the forecasting process for my mine's gold production. Most options on the market were cost prohibitive for the size of our operation but airth.io offered a solution at a very competitive price point without sacrificing sophistication. As we work to adapt the model to the unique circumstances of our mine airth.io's support team has been an ever-present partner. Regular communications to sort out any problems or further optimize our reporting has turned our new software solution into an integral planning tool for our business.\""
+              - generic [ref=e246]:
+                - paragraph [ref=e247]: Justin Black
+                - paragraph [ref=e248]: Process Manager
+            - generic [ref=e249]:
+              - paragraph [ref=e251]: "\"Working with startup companies is always exciting. airth.io team is a highly skilled, energetic and passionate team focused on helping the mining industry gain significant improvements across the value chain which is both timely and vital in this age of high-velocity technology advancement and social awareness. I find working with such young, knowledgeable, committed and innovative minds to be personally rewarding and enriching and am proud to be invited to share my experiences in our shared drive to meaningful and sustainable change in our world.\""
+              - generic [ref=e252]:
+                - paragraph [ref=e253]: Larry Clark
+                - paragraph [ref=e254]: Lead Technical and Business Advisor
+            - generic [ref=e255]:
+              - paragraph [ref=e257]: "\"As an application engineer at airth.io, the opportunity to work with cutting-edge technology that makes a real difference in the world is highly rewarding. Collaborating with a team of talented and dedicated individuals who share the same passion and drive for innovation creates a supportive and collaborative culture that encourages constant learning and development. The challenging work to develop creative and innovative solutions has a real impact and makes a difference in the mining industry.\""
+              - generic [ref=e258]:
+                - paragraph [ref=e259]: Selin Güngör
+                - paragraph [ref=e260]: Application Engineer
+            - generic [ref=e261]:
+              - paragraph [ref=e263]: "\"It's refreshing to be a part of such a knowledgeable team that values individual strengths, fosters collaboration, and encourages innovation.\""
+              - generic [ref=e264]:
+                - paragraph [ref=e265]: Erik Anderson
+                - paragraph [ref=e266]: Customer Success Manager
+          - generic [ref=e267]:
+            - button "Testimonial 1" [ref=e268] [cursor=pointer]
+            - button "Testimonial 2" [ref=e269] [cursor=pointer]
+            - button "Testimonial 3" [ref=e270] [cursor=pointer]
+            - button "Testimonial 4" [ref=e271] [cursor=pointer]
+      - generic [ref=e274]:
+        - generic [ref=e275]:
+          - generic [ref=e277]: Let's collaborate
+          - heading "Your Challenge Our Mission" [level=3] [ref=e278]:
+            - generic [ref=e279]: Your Challenge
+            - generic [ref=e280]: Our Mission
+          - paragraph [ref=e281]: Overcome your mining challenges and optimize operations with airth.io solutions. Our AI-powered technology enhances your decision-making processes.
+          - link "Let's Solve It Together" [ref=e283] [cursor=pointer]:
+            - /url: /contact-us
+            - button "Let's Solve It Together" [ref=e284]: Let's Solve It Together
+        - generic [ref=e298]:
+          - generic [ref=e299]:
+            - generic [ref=e300]: Ore Grade
+            - img [ref=e302]: Q1Q2Q3Q4Q5Q6
+          - generic [ref=e322]:
+            - generic [ref=e323]: Equipment Utilization
+            - generic [ref=e325]:
+              - generic [ref=e326]:
+                - generic [ref=e327]: Excavator
+                - generic [ref=e331]: 78%
+              - generic [ref=e332]:
+                - generic [ref=e333]: Haul Truck
+                - generic [ref=e337]: 92%
+              - generic [ref=e338]:
+                - generic [ref=e339]: Drill
+                - generic [ref=e343]: 65%
+              - generic [ref=e344]:
+                - generic [ref=e345]: Crusher
+                - generic [ref=e349]: 85%
+          - generic [ref=e350]:
+            - generic [ref=e351]: Production vs. Cost Analysis
+            - generic [ref=e352]: Q4 2023
+            - generic [ref=e353]:
+              - img [ref=e355]: 75%Production
+              - img [ref=e360]: 65%Cost Efficiency
+    - generic [ref=e371]:
+      - generic [ref=e372]:
+        - generic [ref=e373]:
+          - link "airth.io" [ref=e374] [cursor=pointer]:
+            - /url: /
+            - img "airth.io" [ref=e376]
+          - paragraph [ref=e377]: AI Powered Mining
+          - generic [ref=e378]:
+            - generic [ref=e379]:
+              - img [ref=e380]
+              - generic [ref=e383]: PO Box 35242, Tucson, AZ 85740
+            - generic [ref=e384]:
+              - img [ref=e385]
+              - generic [ref=e388]: contact@airth.io
+            - generic [ref=e389]:
+              - img [ref=e390]
+              - generic [ref=e392]: +1 (520) 497-27850
+        - generic [ref=e393]:
+          - heading "airth.io" [level=3] [ref=e394]
+          - list [ref=e395]:
+            - listitem [ref=e396]:
+              - link "airth Core" [ref=e397] [cursor=pointer]:
+                - /url: /airth-core
+            - listitem [ref=e398]:
+              - link "airth mOS" [ref=e399] [cursor=pointer]:
+                - /url: /airth-mos
+            - listitem [ref=e400]:
+              - link "airth Xchange" [ref=e401] [cursor=pointer]:
+                - /url: /airth-xchange
+            - listitem [ref=e402]:
+              - link "airth Products" [ref=e403] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=e404]:
+              - link "airth Applications" [ref=e405] [cursor=pointer]:
+                - /url: /applications
+        - generic [ref=e406]:
+          - heading "Company" [level=3] [ref=e407]
+          - list [ref=e408]:
+            - listitem [ref=e409]:
+              - link "Team" [ref=e410] [cursor=pointer]:
+                - /url: /team
+            - listitem [ref=e411]:
+              - link "Solution Xchange" [ref=e412] [cursor=pointer]:
+                - /url: https://xchange.airth.io
+            - listitem [ref=e413]:
+              - link "Knowledge Xchange" [ref=e414] [cursor=pointer]:
+                - /url: https://xchange.airth.io/knowledge/
+            - listitem [ref=e415]:
+              - link "Contact Us" [ref=e416] [cursor=pointer]:
+                - /url: /contact-us
+        - generic [ref=e417]:
+          - heading "Resources" [level=3] [ref=e418]
+          - list [ref=e419]:
+            - listitem [ref=e420]:
+              - link "Documentation" [ref=e421] [cursor=pointer]:
+                - /url: https://support.airth.io
+        - generic [ref=e422]:
+          - heading "Legal" [level=3] [ref=e423]
+          - list [ref=e424]:
+            - listitem [ref=e425]:
+              - link "Privacy Policy" [ref=e426] [cursor=pointer]:
+                - /url: /legal/privacy-policy
+            - listitem [ref=e427]:
+              - link "Terms of Service" [ref=e428] [cursor=pointer]:
+                - /url: /legal/terms-of-service
+      - generic [ref=e430]:
+        - generic [ref=e431]:
+          - heading "Join Our Newsletter" [level=3] [ref=e432]
+          - paragraph [ref=e433]: Stay up to date with the latest mining industry insights and airth.io product updates.
+        - generic [ref=e435]:
+          - generic [ref=e436]:
+            - textbox "Enter your name" [ref=e437]
+            - textbox "Enter your email" [ref=e438]
+          - button "Subscribe" [ref=e440] [cursor=pointer]
+          - paragraph [ref=e441]:
+            - text: By subscribing, you agree to our
+            - link "Terms of Service" [ref=e442] [cursor=pointer]:
+              - /url: /legal/terms-of-service
+            - text: and
+            - link "Privacy Policy" [ref=e443] [cursor=pointer]:
+              - /url: /legal/privacy-policy
+            - text: . You will receive our newsletter and product updates.
+      - generic [ref=e444]:
+        - generic [ref=e445]: © 2025 airth.io. All rights reserved.
+        - generic [ref=e446]:
+          - generic [ref=e447]:
+            - link "Visit our FaLinkedin page" [ref=e448] [cursor=pointer]:
+              - /url: https://tr.linkedin.com/company/airth-io
+              - img [ref=e449]
+            - link "Visit our BsTwitterX page" [ref=e451] [cursor=pointer]:
+              - /url: https://x.com/airth_io
+              - img [ref=e452]
+            - link "Visit our FaInstagram page" [ref=e454] [cursor=pointer]:
+              - /url: https://www.instagram.com/airth.io/
+              - img [ref=e455]
+          - button "Scroll to top" [ref=e457] [cursor=pointer]:
+            - img [ref=e458]
+  - alert [ref=e461]
+```

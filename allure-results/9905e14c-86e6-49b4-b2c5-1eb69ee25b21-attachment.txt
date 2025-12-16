@@ -1,0 +1,3 @@
+Step 1: Navigate to Sign In
+Step 2: Navigate to Signup
+Step 3: Wait for Signup Form

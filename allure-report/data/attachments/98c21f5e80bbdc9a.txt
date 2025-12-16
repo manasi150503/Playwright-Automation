@@ -1,0 +1,5 @@
+
+❌ CRITICAL ERROR: Could not launch Chrome with your profile.
+👉 ACTION REQUIRED: Please CLOSE ALL CHROME WINDOWS and run the test again.
+The test requires your existing Chrome profile to access Gmail.
+

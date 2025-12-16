@@ -1,0 +1,7 @@
+
+❌ Test failed: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator('table[role="grid"]') to be visible
+    - waiting for" https://workspace.google.com/intl/en-US/gmail/" navigation to finish...
+    - navigated to "https://workspace.google.com/intl/en-US/gmail/"
+

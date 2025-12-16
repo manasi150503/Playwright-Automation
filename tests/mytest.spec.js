@@ -1,0 +1,37 @@
+import { test, expect } from '@playwright/test';
+
+test('test', async ({ page }) => {
+  await page.goto('https://airth-core-ui.dev.airth.io/signin');
+  await page.locator('#userLogin_email').click();
+  await page.locator('#userLogin_email').fill('shivaraj.airth@gmail.com');
+  await page.getByRole('textbox', { name: 'Password' }).click();
+  await page.getByRole('textbox', { name: 'Password' }).press('CapsLock');
+  await page.getByRole('textbox', { name: 'Password' }).fill('A');
+  await page.getByRole('textbox', { name: 'Password' }).press('CapsLock');
+  await page.getByRole('textbox', { name: 'Password' }).fill('Airth.io123');
+  await page.getByRole('button', { name: 'Sign in' }).click();
+  await page.locator('span').nth(4).click();
+  await page.getByTitle('Airth Company').click();
+  await page.getByRole('button', { name: 'Continue' }).click();
+  await page.getByRole('button', { name: 'CORE' }).click();
+  await page.getByRole('button', { name: 'Applications' }).click();
+  await page.getByRole('button', { name: 'Resources' }).click();
+  await page.getByRole('button', { name: 'Connections' }).click();
+  await page.getByRole('button', { name: 'Lineage' }).click();
+  await page.getByRole('button', { name: 'Glossaries' }).click();
+  await page.getByRole('button', { name: 'Tags' }).click();
+  await page.getByRole('button', { name: 'Databases' }).click();
+  await page.getByText('ConnectionsDatasetsLineageGlossariesTagsDatabasesCustom Property').click();
+  await page.getByRole('button', { name: 'custom-property' }).click();
+  await page.getByRole('button', { name: 'Global Variables' }).click();
+  await page.getByRole('button', { name: 'Engines' }).click();
+  await page.getByText('WorkflowsApplicationsResourcesConnectionsDatasetsLineageGlossariesTagsDatabasesC').click();
+  await page.getByText('WorkflowsApplicationsResourcesConnectionsDatasetsLineageGlossariesTagsDatabasesC').click();
+  await page.getByRole('button', { name: 'Listeners' }).click();
+  await page.getByRole('button', { name: 'Engines' }).click();
+  await page.getByRole('button', { name: 'Search' }).click();
+  await page.getByRole('img', { name: 'Core' }).click();
+  await page.getByRole('button', { name: 'Yes' }).click();
+  await page.getByText('Shivaraj Nalawade').click();
+  await page.getByText('Logout').click();
+});

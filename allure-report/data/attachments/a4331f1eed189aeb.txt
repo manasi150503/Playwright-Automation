@@ -1,0 +1,6 @@
+
+⚠️  Could not launch persistent context (Chrome might be open).
+Falling back to standard browser launch. Gmail login will NOT be available.
+
+Step 1: Navigating to Airth signin page...
+Could not save screenshots
