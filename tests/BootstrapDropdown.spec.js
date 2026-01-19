@@ -16,3 +16,7 @@ test('Bootstrap dropdown', async ({page}) =>{
 
      await page.waitForTimeout(5000);
 
+     // Test logic would go here
+     console.log('Bootstrap dropdown test completed');
+
+})
